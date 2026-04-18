@@ -1,0 +1,11 @@
+body, html {
+    font-family: sans-serif;
+}
+
+:root {
+  --primary: #6b1e2b;   /* vino oscuro */
+  --accent: #f4c542;    /* dorado */
+  --light: #fff6f2;     /* rosado claro */
+  --green: #4caf50;     /* natural */
+  --text: #333;
+}
