@@ -10,7 +10,7 @@ export class App {
   whatsappLink(): string {
     const phone = '59164423294';
     const message = encodeURIComponent(
-      'Hola! Quisiera reservar el servicio de raspados Tropical para mi evento 🍧'
+      'Hola, quiero contratar el servicio de raspados para un evento en Santa Cruz.'
     );
     return `https://wa.me/${phone}?text=${message}`;
   }
